@@ -1,18 +1,7 @@
-# Streamlit and basic dependencies
-streamlit
-numpy
-pandas
-
-# Computer Vision for QR Code Analysis
-opencv-python
-Pillow
-pyzbar
-
-# QR Code Generation and Reading
-qrcode
-qrcode[pil]
-
-# URL Analysis (no additional dependencies needed for url_analysis.py)
-
-# QR Code API Integration (for free QR code decoding APIs)
-requests
+streamlit>=1.28.0
+opencv-python-headless>=4.8.0
+Pillow>=10.0.0
+qrcode>=7.4.0
+pyzbar>=0.1.9
+requests>=2.31.0
+numpy>=1.24.0
