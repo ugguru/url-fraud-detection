@@ -5,3 +5,4 @@ qrcode>=7.4.0
 pyzbar>=0.1.9
 requests>=2.31.0
 numpy>=1.24.0
+
